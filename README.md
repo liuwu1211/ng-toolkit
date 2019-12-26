@@ -1,6 +1,7 @@
 # @ng-toolkit [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20ng-toolkit%20-%20collection%20of%20great%20tools%20for%20angular&url=https://github.com/maciejtreder/ng-toolkit&via=maciejtreder&hashtags=angular,pwa,webapp,software,developers)
 
 [video](https://www.youtube.com/watch?v=hxG9nuvnh-A)
+[angular meta](https://www.youtube.com/watch?v=cIkdQOyE2wg)
 
 
 <!-- TODO: Provide a quick summary of the package -->
